@@ -1,6 +1,6 @@
 # Unity2D-physical-dynamic-water
 
-A project showing the implementation of physical dynamic water with a side view in Unity 2D 
+A project showing the implementation of physical dynamic water with a side view in Unity 2D
 Проект, показывающий реализацию физической динамической воды с видом сбоку в Unity2D
 
 
